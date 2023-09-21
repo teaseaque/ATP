@@ -1,0 +1,82 @@
+{
+  "color" : "FF9500",
+  "sounds" : [
+    {
+      "name" : "Opening",
+      "color" : "FFCC00",
+      "customSortIndex" : 0,
+      "image" : "door.left.hand.open"
+    },
+    {
+      "name" : "File system bell",
+      "color" : "AF43EB",
+      "customSortIndex" : 1,
+      "image" : "🛎"
+    },
+    {
+      "color" : "FF3B30",
+      "customSortIndex" : 2,
+      "image" : "🫨",
+      "name" : "Synology vibraslap"
+    },
+    {
+      "name" : "Into ad",
+      "color" : "FF9500",
+      "customSortIndex" : 3,
+      "image" : "🎸"
+    },
+    {
+      "customSortIndex" : 4,
+      "name" : "Back from ad",
+      "image" : "🥁",
+      "color" : "34C759"
+    },
+    {
+      "image" : "car.side.rear.open",
+      "name" : "Into neutral",
+      "color" : "FFCC00",
+      "customSortIndex" : 5
+    },
+    {
+      "color" : "007AFF",
+      "customSortIndex" : 6,
+      "image" : "car.side",
+      "name" : "Out of neutral"
+    },
+    {
+      "name" : "Neeext week",
+      "color" : "FF3B30",
+      "image" : "📅",
+      "customSortIndex" : 7
+    },
+    {
+      "color" : "FF9500",
+      "name" : "Ending Theme",
+      "image" : "🎵",
+      "customSortIndex" : 8
+    },
+    {
+      "name" : "Accidentally Podcasted",
+      "image" : "🤘",
+      "customSortIndex" : 9,
+      "color" : "34C759"
+    },
+    {
+      "customSortIndex" : 10,
+      "image" : "🦋",
+      "name" : "Paint My Wings",
+      "color" : "AF43EB"
+    },
+    {
+      "image" : "door.right.hand.closed",
+      "name" : "Closing",
+      "color" : "007AFF"
+    }
+  ],
+  "name" : "ATP",
+  "duration" : 125,
+  "size" : 3084141,
+  "description" : "Audio clips from the podcast Accidental Tech Podcast hosted by Marco Arment, Casey Liss, and John Siracusa.",
+  "image" : "jpeg",
+  "sorts" : "[{\"sortValue\":\"customSortIndex\",\"isForward\":true}]"
+}
